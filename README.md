@@ -1,4 +1,4 @@
-# NethyaChatBot[DATABASE Based]
+#Eren Yeager[DATABASE Based]
 Python Advance Chatbot.
 
 # About
