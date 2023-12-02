@@ -21,13 +21,4 @@ The easiest way to deploy this Bot
 ##### 4.Select *Deploy From Github* in Railway.app and then add Variable and Deploy!.
 ## Enjoy!!
 
-<p align="center"><a href="http://railway.app"> <img src="https://img.shields.io/badge/Deploy%20To%20Railway-black?style=for-the-badge&logo=Railway" width="220" height="38.45"/></a></p>
-
-
-
-# REACH ME
-
-<p align="center"><a href="https://telegram.dog/The_logical_Guy"> <img src="https://img.shields.io/badge/Reach--@The__Logical__Guy-blue?style=for-the-badge&logo=telegram" width="" height="40"/></a></p>
-
-##### Credit:- NethyaChatbot is basically created from Vick with some extra features So credit goes to its respective owner
  
